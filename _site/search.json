@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Here is a list of papers and pre-prints. The following is our recent work on privacy, more to come\nBayesian Adversarial Privacy Cameron Bell, Timothy Johnston, Antoine Luciano, Christian P Robert https://arxiv.org/abs/2603.04199\nAnd these works on singular SDEs, also more to come\nA tamed Euler scheme for SDEs with non-locally integrable drift coefficient Tim Johnston, Sotirios Sabanis  Stochastic Processes and their Applications (2026)\nA Lyapunov-Tamed Euler Method for Singular SDEs Tim Johnston, Pierre Monmarché https://arxiv.org/abs/2601.16878\nAnd then finally these papers are on SDEs and Markov Chains\nDifferential privacy guarantees of Markov chain Monte Carlo algorithms Andrea Bertazzi, Tim Johnston, Gareth Roberts, Alain Durmus ICML 2025\nInteracting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation Omer Deniz Akyıldız, Francesca Romana Crucinio, Mark Girolami, Tim Johnston, Sotirios Sabanis ESAIM: Probability & Statistics 29 (2025)\nTaming the Interactive Particle Langevin Algorithm - the superlinear case Tim Johnston, Nikos Makras, Sotirios Sabanis Applied Mathematics & Optimization. 91 (2025)\nThe Performance Of The Unadjusted Langevin Algorithm Without Smoothness Assumptions Tim Johnston, Iosif Lytras, Nikos Makras, Sotirios Sabanis Transactions on Machine Learning Research (2025)\nA Strongly Monotonic Polygonal Euler Scheme Tim Johnston, Sotirios Sabanis Journal of Complexity 80 (2024)\nKinetic Langevin MCMC Sampling Without Gradient Lipschitz Continuity Tim Johnston, Iosif Lytras, Sotirios Sabanis Journal of Complexity 85 (2024)"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Tim Johnston",
+    "section": "",
+    "text": "Hello, I am a postdoctoral researcher at Paris Dauphine under the supervision of Christian Robert\nBefore that I was a PhD student at the University of Edinburgh under the supervision of Sotirios Sabanis\nI am interested probability, particularly the modelling of privacy, and the behaviour of SDEs in singular settings\nMy current email timothy.johnston at dauphine.psl.eu"
+  },
+  {
+    "objectID": "Untitled-1.html",
+    "href": "Untitled-1.html",
+    "title": "CV",
+    "section": "",
+    "text": "Here"
+  }
+]

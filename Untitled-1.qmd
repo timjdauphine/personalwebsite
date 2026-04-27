@@ -1,0 +1,6 @@
+---
+title: "CV"
+format: html
+---
+<embed src="CV_Website.pdf" width="800px" height="2100px" />
+
