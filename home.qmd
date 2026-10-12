@@ -2,13 +2,13 @@
 title: "Tim Johnston"
 ---
 
-Hello, I am a postdoctoral researcher at ESSEC Paris under the supervision of Pierre Jacob. We are working on couplings for MCMC
+Hello, I am a postdoctoral researcher at ESSEC Paris under the supervision of Pierre Jacob.
 
-Before that I was a postodoctoral researcher at Paris Dauphine under the supervision of Christian Robert, working on new conceptions of privacy.
+Before that I was a postodoctoral researcher at Paris Dauphine under the supervision of Christian Robert.
 
-Before that I was a PhD student at the University of Edinburgh under the supervision of Sotirios Sabanis, where we worked on stochastic processes.
+Before that I was a PhD student at the University of Edinburgh under the supervision of Sotirios Sabanis.
 
-I am interested probability, particularly the modelling of privacy, and the behaviour of SDEs in singular settings
+I am interested probability, particularly the modelling of privacy, couplings, and the behaviour of SDEs in singular settings.
 
 My current email timothy.johnston at dauphine.psl.eu
 
